@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Inovola/static/css/main.16d2c407.chunk.css",
-    "main.js": "/Inovola/static/js/main.8e79ce43.chunk.js",
-    "main.js.map": "/Inovola/static/js/main.8e79ce43.chunk.js.map",
+    "main.js": "/Inovola/static/js/main.d87ec340.chunk.js",
+    "main.js.map": "/Inovola/static/js/main.d87ec340.chunk.js.map",
     "runtime-main.js": "/Inovola/static/js/runtime-main.fd73f383.js",
     "runtime-main.js.map": "/Inovola/static/js/runtime-main.fd73f383.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Inovola/static/css/2.0a9ec390.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.94cf4748.chunk.js",
     "static/css/main.16d2c407.chunk.css",
-    "static/js/main.8e79ce43.chunk.js"
+    "static/js/main.d87ec340.chunk.js"
   ]
 }
